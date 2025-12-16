@@ -164,7 +164,8 @@ python gui_app.py
 
 ### Ekran Görüntüsü
 
-//TODO Buraya bi ekran görüntüsü sallayacam.
+<img width="999" height="747" alt="image" src="https://github.com/user-attachments/assets/b6f8c7f0-f45e-4546-ad5b-eb94c88ff505" />
+
 
 ## 🔮 Gelecek Geliştirmeler
 
