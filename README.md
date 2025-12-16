@@ -145,6 +145,27 @@ Ağırlık merkezi yöntemi kullanılarak bulanık çıktı, kesin bir performan
 - Mamdani çıkarım yöntemi uygulanmıştır
 - Centroid (ağırlık merkezi) durulaştırma yöntemi kullanılmıştır
 
+## 🖥️ Grafik Arayüz (GUI)
+
+Proje artık kullanıcı dostu bir grafik arayüze sahiptir!
+
+### GUI Kullanımı
+```bash
+python gui_app.py
+```
+
+### Özellikler
+
+- ✅ **Sürükle-Bırak CSV Yükleme**: Kolay veri yükleme
+- ✅ **Gerçek Zamanlı Analiz**: Anlık sonuçlar
+- ✅ **Fuzzy Logic Görselleştirme**: Detaylı performans raporu
+- ✅ **Rapor Kaydetme**: Sonuçları dosyaya kaydet
+- ✅ **Modern Arayüz**: Profesyonel ve temiz tasarım
+
+### Ekran Görüntüsü
+
+//TODO Buraya bi ekran görüntüsü sallayacam.
+
 ## 🔮 Gelecek Geliştirmeler
 
 - [ ] Görselleştirme: Matplotlib ile üyelik fonksiyonları grafikleri
